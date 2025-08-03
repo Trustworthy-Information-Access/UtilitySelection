@@ -11,7 +11,6 @@ Thanks for [RankGPT](https://github.com/sunnweiwei/RankGPT), [RankLLM](https://g
 - Generation distillation needs [accelerate](https://github.com/huggingface/accelerate) and flash-attn.
 ## Datasets
 100K training queries are sampled by [RankGPT](https://drive.google.com/file/d/1OgF4rj89FWSr7pl1c7Hu4x0oQYIMwhik/view?usp=share_link). Each query has the top 20 BM25-retrieved passages. 
-The relevance ranking list and utility selection annotated by Qwen3 32B in the training set will be publicly linked after the anonymity period, because the files are too large. 
 ## Start 
 ### Relevance ranking and utility selection annotation
 ```
@@ -28,7 +27,5 @@ sh run.sh
 cd RelevanceRank_UtilitySelection
 sh run.sh 
 ```
-Similar to the annotation list, all trained models' checkpoints in our work, e.g., RankQwen1.7B and UtilityQwen1.7B, will be publicly linked after the anonymity period.
-
 
 
