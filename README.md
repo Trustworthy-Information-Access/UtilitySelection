@@ -3,7 +3,7 @@ Code for paper "Is Relevance Ranking Sufficient in RAG?"
 This project aims to explore relevance ranking vs utility selection in RAG.  
 Thanks for [RankGPT](https://github.com/sunnweiwei/RankGPT), [RankLLM](https://github.com/castorini/rank_llm) and [Utility Annotation for dense retrieval](https://github.com/Trustworthy-Information-Access/utility-focused-annotation). 
 
-🎉🎉🎉 **[News]**: Checkpoints and training dataset of RankQwen and UtilityQwen in our paper are released on [UtilityQwen1.7B](https://huggingface.co/hengranZhang/UtilityQwen1.7B/tree/main).
+🪧 **[News]**: Checkpoints and training dataset of RankQwen and UtilityQwen in our paper are released on [UtilityQwen1.7B](https://huggingface.co/hengranZhang/UtilityQwen1.7B/tree/main).
 
 # Quick example
 ## Installation
