@@ -1,4 +1,5 @@
-Code for paper "Is Relevance Ranking Sufficient in RAG?"
+Code for paper "Distilling a Small Utility-Based Passage Selector to Enhance
+Retrieval-Augmented Generation"
 
 This project aims to explore relevance ranking vs utility selection in RAG.  
 Thanks for [RankGPT](https://github.com/sunnweiwei/RankGPT), [RankLLM](https://github.com/castorini/rank_llm) and [Utility Annotation for dense retrieval](https://github.com/Trustworthy-Information-Access/utility-focused-annotation). 
